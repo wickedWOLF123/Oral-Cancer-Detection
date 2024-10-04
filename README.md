@@ -13,6 +13,7 @@ data/: Contains the medical image datasets used for training and testing (due to
 notebooks/: Jupyter notebooks showcasing data preprocessing, model training, and evaluation.
 models/: Pretrained models and weight files for oral cancer detection.
 results/: Visualizations, performance metrics, and model evaluation results.
+
 Dependencies
 Python 3.x
 TensorFlow
