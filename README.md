@@ -13,6 +13,16 @@ Detecting oral cancer at an early stage can significantly increase the chances o
 - Model Experimentation: Compared multiple architectures and techniques, including CNN, RNN, and hybrid models, to identify the most effective model for cancer detection.
 - Research-Driven Approach: Referred to state-of-the-art research in medical image analysis and adapted key findings to improve the accuracy and efficiency of our detection algorithms.
 
-Project Structure
+# Project Structure
 
-Gonna fix up some structuring this weekedn
+Gonna fix up some structuring this weekedend
+
+# Dependencies
+
+Python 3.8
+TensorFlow
+OpenCV
+Numpy
+Matplotlib
+Pandas
+
