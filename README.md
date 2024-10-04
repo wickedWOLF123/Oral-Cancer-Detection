@@ -26,3 +26,11 @@ Numpy
 Matplotlib
 Pandas
 
+# Future Work
+- Enhancing model accuracy by tuning hyperparameters.
+- Exploring more complex architectures to improve detection rates.
+- Expanding the dataset for broader generalization.
+
+# Contributing
+Feel free to submit issues or pull requests for further improvement.
+
