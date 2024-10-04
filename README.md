@@ -19,12 +19,16 @@ Gonna fix up some structuring this weekedend
 
 # Dependencies
 
-Python 3.8
-TensorFlow
-OpenCV
-Numpy
-Matplotlib
-Pandas
+- Python 3.8
+- TensorFlow
+- OpenCV
+- Numpy
+- Matplotlib
+- Pandas
+- Skimage
+- Sklearn
+- Glob
+
 
 # Future Work
 - Enhancing model accuracy by tuning hyperparameters.
